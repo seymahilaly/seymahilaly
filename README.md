@@ -1,4 +1,4 @@
-# Hi 👋 I'm Şeyma Hilal Yeşildal
+# Hi 👋 I'm Seyma Hilal Yesildal
 
 I'm a **Computer Engineering Student** at Bülent Ecevit University. I focus on software development and engineering projects.
 
