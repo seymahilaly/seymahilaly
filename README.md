@@ -15,11 +15,10 @@ I'm a **Computer Engineering Student** at Bülent Ecevit University. I focus on 
 
 ### 📂 Projects
 
-1.  **Survey Upload & Convert to QR Application**
-    * *Description:* An application that allows users to upload surveys and automatically generates a QR code for easy access.
+1. **Survey Upload & Convert to QR Application**
+*Description:* An application that allows users to upload surveys and automatically generates a QR code for easy access.
     
-
-2.  **Travel Guide Website**
-    * *Description:* A web-based guide for travelers to explore destinations.
+2. **Travel Guide Website**
+*Description:* A web-based guide for travelers to explore destinations.
   
 
