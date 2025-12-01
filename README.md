@@ -1,6 +1,6 @@
 # Hi there, I'm Şeyma Hilal Yeşildal! 👋
 
-I'm a **Computer Engineering Student** at Bülent Ecevit University and a passionate Junior Software Engineer. I love building software solutions and working on team-based engineering projects.
+I'm a **Computer Engineering Student** at Bülent Ecevit University. I focus on software development and engineering projects.
 
 ### 🚀 About Me
 - 🎓 I’m currently studying Computer Engineering (Expected 2026).
