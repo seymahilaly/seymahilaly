@@ -9,7 +9,7 @@ I'm a **Computer Engineering Student** at Bülent Ecevit University. I focus on 
 - 📫 Mail: **seyma.hilal.y@gmail.com**
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/seyma-hilal-yesildal-351b1b258/)
 
-### Languages and Tools
+### Languages 
 
 * C, C#, Java, HTML, CSS, JavaScript, PHP
 
