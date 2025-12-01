@@ -6,7 +6,7 @@ I'm a **Computer Engineering Student** at Bülent Ecevit University. I focus on 
 - 🎓 I’m currently studying Computer Engineering.
 - 💻 I have experience as a **Junior Software Engineer** at **Teknofest (THORNY SKATE Team)**, where I worked on an **Unmanned Underwater Vehicle** using **C**.
 - 📫 Mail: **seyma.hilal.y@gmail.com**
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/şeyma-hilal-yeşildal-351b1b258/)
+- 💼 [LinkedIn Profile](www.linkedin.com/in/seymahilalyesildal)
 
 ### Languages 
 
