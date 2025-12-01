@@ -11,9 +11,7 @@ I'm a **Computer Engineering Student** at Bülent Ecevit University. I focus on 
 
 ### Languages and Tools
 
-* **Core:** C, C#, Java
-* **Web:** HTML, CSS, JavaScript, PHP
-* **Tools:** Git, GitHub, VS Code
+* C, C#, Java, HTML, CSS, JavaScript, PHP
 
 ### 📂 Projects
 
